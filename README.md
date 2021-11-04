@@ -15,10 +15,10 @@
     "نام فیلم دوم": "بیوه سیاه",
     "نام فیلم سوم": "تل ماسه",
     "لینک فیلم اول": "https://aspb1.cdn.asset.aparat.com/aparat-video/f1b9bb811e52db44737d71619753486218602288-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImUzY2M1ZjYyZTE3NmI2NDUyNGExZjA0ZGNiNzIzYmUwIiwiZXhwIjoxNjM2MDcyNjc2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.KJW3-LyYn-LrQRjAPuQbIkRiSaKKSFYZ43mxrQ_fmzE",
-    "لینک فیلم دوم": "https://hw1.cdn.asset.aparat.com/aparat-video/2c77e3a2b746cd527453f414a0684a0518842609-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjViZjE1MmMwMzQ4OTc5YTczYjk2NGUzZGE2NGQ3OTRiIiwiZXhwIjoxNjM2MDU0NTMxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.QLHQ_HB5CzcEGqGoMVmit7SV83MLGkovBDB0ZlVUeok",
+    "لینک فیلم دوم": "https://aspb34.cdn.asset.aparat.com/aparat-video/1cdf1ed61010ddf59efef99012dca27136143155-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI0NjU2YTAxNDE3YTZjOWQxMzE4YTZhNWZjYzZkODVlIiwiZXhwIjoxNjM2MDc0Njg0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.7t-34GAlhfjFIJI71-B4lCf_UXPuk-hcytn31poRlVE",
     "لینک فیلم سوم": "https://www.uptvs.com/?onlineupdub\u003d124213",
-    "لینک تصویر اول": "https://s4.uupload.ir/files/see-series--500x500_t5t3.jpg",
-    "لینک تصویر دوم": "https://s4.uupload.ir/files/mov_91105_253-m_n04b.jpg",
+    "لینک تصویر اول": "https://files.virgool.io/upload/users/89132/posts/xz6apdwj8zdh/k98isdajzibf.jpeg",
+    "لینک تصویر دوم": "https://farsifilm.ir/wp-content/uploads/2020/06/%D9%81%DB%8C%D9%84%D9%85-%D8%A8%DB%8C%D9%88%D9%87-%D8%B3%DB%8C%D8%A7%D9%87black-windowfarsifilm.ir-1.jpg",
     "لینک تصویر سوم": "https://files.asemooni.com/storage/cdn/2020/10/5f7c44f2cf47a.jpg"
   }
 ]
