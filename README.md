@@ -31,5 +31,16 @@
     "لینک تصویر اول": "https://upmedia.me/wp-content/uploads/2021/06/The-Conjuring-3-The-Devil-Made-Me-Do-It.jpg",
     "لینک تصویر دوم": "https://dlroozane.net/wp-content/uploads/2020/02/Countdown.jpg",
     "لینک تصویر سوم": "https://mooziane.com/wp-content/uploads/2021/08/Kate-2021.jpg"
+  },
+  {
+    "نام فیلم اول": "بوتاکس",
+    "نام فیلم دوم": "تکخال",
+    "نام فیلم سوم": "خوب بد جلف 2",
+    "لینک فیلم اول": "https://rubika-play.namava.ir/?m\u003d115150\u0026p\u003dmobile",
+    "لینک فیلم دوم": "https://rubika-play.namava.ir/?m\u003d110217\u0026p\u003dmobile",
+    "لینک فیلم سوم": "https://rubika-play.namava.ir/?m\u003d61219\u0026p\u003dmobile",
+    "لینک تصویر اول": "https://rubika-static.namava.ir/Content/Upload/Images/bf8f4008-7503-4d83-82a1-858fa70b55ee.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d292\u0026h\u003d430",
+    "لینک تصویر دوم": "https://rubika-static.namava.ir/Content/Upload/Images/58614c53-b52e-466f-adfc-3ff890192088.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d292\u0026h\u003d430",
+    "لینک تصویر سوم": "https://rubika-static.namava.ir/Content/Upload/Images/e6cd46e1-1ca6-4506-98f2-939f13d12143.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d292\u0026h\u003d430"
   }
 ]
