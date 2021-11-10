@@ -27,7 +27,7 @@
     "نام فیلم سوم": "کیت",
     "لینک فیلم اول": "https://aspb32.cdn.asset.aparat.com/aparat-video/8dba4354c7534309bf04555aeb9e0af434484870-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImVhNWE4MjUzNDQ5NmU0N2FiZDZiYjkzM2ZiMDU5ODdjIiwiZXhwIjoxNjM2MzE4ODA2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.2tD7dJGsS9327VkIdH4_1hShtb_TTpR5Hkl6B8nMiQg",
     "لینک فیلم دوم": "https://as1.cdn.asset.aparat.com/aparat-video/68606f0ba6e37ce88ccf994c22083e7620336922-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImViMGVjZjFkNzYyOWRhZmJmNGUxMGJhZjMwZmRmNDVlIiwiZXhwIjoxNjM2MzE4OTIwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.81LxxCKtyxgtbWC743zxKPcUJH6zqkE3MNmd0_NRe84",
-    "لینک فیلم سوم": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/7e02790437be0143e10b97db2b611de839032648-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImNiMTRiMGU0M2ZiYTBlMmIwZThkZjY0ODZhZjEzZjIyIiwiZXhwIjoxNjM2MzIwMDMxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.1nwYMsFxVe4sTcbcGouKKaEGMNJFS9YfjNqWWGRvjmk",
+    "لینک فیلم سوم": "https://hw7.cdn.asset.aparat.com/aparat-video/de18b1d66e52cbaf2b5f65ddae0b30fe13494375-480p.mp4?wmsAuthSign",
     "لینک تصویر اول": "https://upmedia.me/wp-content/uploads/2021/06/The-Conjuring-3-The-Devil-Made-Me-Do-It.jpg",
     "لینک تصویر دوم": "https://dlroozane.net/wp-content/uploads/2020/02/Countdown.jpg",
     "لینک تصویر سوم": "https://mooziane.com/wp-content/uploads/2021/08/Kate-2021.jpg"
