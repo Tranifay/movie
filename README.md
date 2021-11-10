@@ -51,7 +51,7 @@
     "لینک فیلم دوم": "https://aspb21.cdn.asset.aparat.com/aparat-video/1ffa29c779c7fde03e4bbc9466b1489731855766-480p.mp4?wmsAuthSign\\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY5MGZkZjkxMzg3MGMzZDY4NjY5MjIxNDhmMWZjMTEyIiwiZXhwIjoxNjM2MTQzODQ4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.y8riF0X8_E8h18Ix27ZzT9dB6ceKPxxngA8OsITwUF0",
     "لینک فیلم سوم": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/f166406b11dc8011703183375f5b426439407383-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImIwOTEzNGY5YmQ1MDZmYjc3NDI3MDE1MWEwMWJjYThlIiwiZXhwIjoxNjM2NjAxNDIyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Ah6DuVA0WGQ8I2GCKVkmQysmUda5xtjVvQa5Et7_Bo4",
     "لینک تصویر اول": "https://zbcdn.cloud/files/cache/28944_img_5698.2d42c6.jpg",
-    "لینک تصویر دوم": "https://upload.wikimedia.org/wikipedia/fa/d/d7/Wish_Dragon.png",
+    "لینک تصویر دوم": "https://narenji1.ir/wp-content/uploads/2020/03/1_AMARsyTpC6nNmUmS4xNazg.jpeg",
     "لینک تصویر سوم": "https://asrmovie.com/img/2021/09/finch-2021-0.webp"
   }
 ]
